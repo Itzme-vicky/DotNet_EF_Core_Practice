@@ -10,3 +10,4 @@ ASP.NET Core Web API for managing products, a practice project using EF Core.
 * Serilog logging
 * Repository pattern, DTOs, model configuration
 
+Wrong line added by mistake
