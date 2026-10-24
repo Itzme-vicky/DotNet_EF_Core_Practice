@@ -1,6 +1,6 @@
 ﻿# Basic CRUD Operation
 
-ASP.NET Core Web API for managing products.
+ASP.NET Core Web API for managing products, a practice project using EF Core.
 
 ## Tech
 
